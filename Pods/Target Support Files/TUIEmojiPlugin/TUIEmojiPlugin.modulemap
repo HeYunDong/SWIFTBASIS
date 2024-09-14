@@ -1,0 +1,6 @@
+framework module TUIEmojiPlugin {
+  umbrella header "TUIEmojiPlugin-umbrella.h"
+
+  export *
+  module * { export * }
+}
